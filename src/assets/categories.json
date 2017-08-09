@@ -1,0 +1,22 @@
+[
+  {
+    "id":1,
+    "name":"Football"
+  },
+  {
+    "id":2,
+    "name":"Archery"
+  },
+  {
+    "id":3,
+    "name":"Horse riding"
+  },
+  {
+    "id":4,
+    "name":"Volleyball"
+  },
+  {
+    "id":5,
+    "name":"Snowboarding"
+  }
+]
